@@ -1,0 +1,2 @@
+dir,early_stopping__patience,fit__batch_size,fit__epochs,model_preprocessor__max_sequence_length,model_preprocessor__num_unique_words,model__dropout,model__embedded_dims,model__lr,model__n_lstm,model__name,model__num_dense,model__optimizer,preprocessor__do_clean,preprocessor__pad_type,preprocessor__trunc_type,results__train__accuracy,results__train__loss,results__valid__accuracy,results__valid__loss
+2021-09-13 211134578595,5,128,20,10,5000,0.5,64,0.001,128,lstm_sentiment,64,adam,False,post,post,0.841082765011775,0.5152551035745727,0.5907922486869855,0.865003509589859
