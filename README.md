@@ -12,6 +12,7 @@
   * Trained the model on a single cropped or downsampled image that takes a coordinate and produces an elevation value.
   * Used the minimum description length (MDL) principle to compare the compressed tile to the original tile.
   * Altered hyperparameters to find the lowest mean squared error and greatest improvement.
+  * [Terrian Model](https://github.com/sydneymagee/Problem-Based-AI/blob/master/Problem2/Terrain/model.py)
 ## Problem 3
   [Spotify Loudness Model](https://github.com/sydneymagee/Problem-Based-AI/tree/master/Problem3)
   * Data collected from the Echo Nest Audio Analysis tool provided by Spotify.
