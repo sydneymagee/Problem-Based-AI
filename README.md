@@ -32,7 +32,7 @@
 ## Problem 5
   [Natural Language Processing Model](https://github.com/sydneymagee/Problem-Based-AI/tree/master/Problem5)
   * Data derived from Roatan Marine Park. Dr. Sarah Beth Hopton and R. Mitchell Parry classified the data into training and validation datasets.
-  * Data description: Roatan Marine Park social media posts that are categorized into three sections:'information', 'community', and 'action'.
+  * Data description: Roatan Marine Park social media posts that are categorized into three sections: 'information', 'community', and 'action'.
   * Convolutional Neural Network for text classification.
   * Utilized a parameter grid to increase testing ability and efficiency.
   * Altered hyperparameters to find the lowest validation loss and high validation accuracy.
